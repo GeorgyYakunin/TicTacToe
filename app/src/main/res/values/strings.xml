@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name" translatable="false">Tic Tac Toe</string>
+    <string name="zero_char" translatable="false">0</string>
+    <string name="ai" translatable="false">AI</string>
+
+    <string name="player1nameHint">player1 name</string>
+    <string name="player2nameHint">player2 name</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="aboutme">studying Computer Science &amp; Engineering at SKIT ,Jaipur</string>
+    <string name="title_activity_afterstart">Tic Tac Toe</string>
+    <string name="pick_side">Pick your side</string>
+    <string name="continue_txt">Continue</string>
+    <string name="choose_mode">Choose your play mode</string>
+    <string name="with_ai">With AI</string>
+    <string name="with_friend">With a Friend</string>
+    <string name="enter_name">Enter your Name</string>
+    <string name="nickname">Nickname</string>
+    <string name="alexdsfd">Alexdsfd</string>
+
+
+    <string name="difficulty">Difficulty</string>
+    <string name="vibration">Vibration</string>
+    <string name="no_ads">No Ads</string>
+    <string name="rating_app">Rating app</string>
+    <string name="feedback">Feedback</string>
+    <string name="first_player">Player 1</string>
+    <string name="second_player">Player 2</string>
+    <string name="hello">Hello</string>
+    <string name="reset">RESET</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="you_exit">Do you want to exit?</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+</resources>

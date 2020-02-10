@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="player1nameHint">Игрок 1 имя</string>
+    <string name="player2nameHint">Игрок 2 имя</string>
+    <string name="action_settings">Настройки</string>
+    <string name="about">Информация</string>
+    <string name="exit">Выход</string>
+    <string name="aboutme">изучаю информатику и Инжиниринг в SKIT, Джайпур</string>
+    <string name="title_activity_afterstart">Tic Tac Toe</string>
+    <string name="pick_side">Выбери сторону</string>
+    <string name="continue_txt">Продолжить</string>
+    <string name="choose_mode">Выбери игровой мод</string>
+    <string name="with_ai">Против AI</string>
+    <string name="with_friend">Против друга</string>
+    <string name="enter_name">Введите свое имя</string>
+    <string name="nickname">Никнейм</string>
+    <string name="alexdsfd">Alexdsfd</string>
+    <string name="difficulty">Сложность</string>
+    <string name="vibration">Вибрации</string>
+    <string name="no_ads">No Ads</string>
+    <string name="rating_app">Оценить приложение</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="first_player">Игрок 1</string>
+    <string name="second_player">Игрок 2</string>
+    <string name="hello">Привет</string>
+    <string name="reset">Заново</string>
+    <string name="play_again">Играть заново</string>
+    <string name="you_exit">Вы хотите выйти?</string>
+    <string name="no">НЕТ</string>
+    <string name="yes">ДА</string>
+</resources>
